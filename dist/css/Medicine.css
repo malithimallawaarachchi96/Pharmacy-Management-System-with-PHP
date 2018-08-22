@@ -1,0 +1,15 @@
+.recycle{
+    text-align: center;
+}
+
+#tblMedicine tbody tr{
+    cursor: pointer;
+}
+
+#tblMedicine tbody{
+    background-color: white;
+}
+
+.recycle:hover{
+    color: deepskyblue;
+}

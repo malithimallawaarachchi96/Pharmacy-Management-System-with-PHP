@@ -1,0 +1,15 @@
+.recycle{
+    text-align: center;
+}
+
+#tblReceipt tbody tr{
+    cursor: pointer;
+}
+
+#tblReceipt tbody{
+    background-color: white;
+}
+
+.recycle:hover{
+    color: deepskyblue;
+}
